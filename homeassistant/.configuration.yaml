@@ -1,0 +1,9 @@
+light:
+  - platform: mqtt
+    name: "Outdoor highlight"
+    state_topic: "outdoor/highlight"
+    command_topic: "outdoor/highlight/set"
+    qos: 1
+    payload_on: "ON"
+    payload_off: "OFF"
+    optimistic: true

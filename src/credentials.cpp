@@ -1,8 +1,8 @@
 //-- WiFi
-#define wifiSsid "..."
-#define wifiPassword "..."
+#define wifiSsid "ssid"
+#define wifiPassword "wifiPassword"
 
 //-- MQTT
-#define mqttServerIp "..."
-#define mqttUser "..."
-#define mqttPassword "..."
+#define mqttServerIp "mqttbroker.local"
+#define mqttUser "mqttUser"
+#define mqttPassword "password"
