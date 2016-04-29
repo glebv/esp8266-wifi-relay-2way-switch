@@ -16,6 +16,8 @@ The project is based on esp8266-07 or 12 and can work with [home-assistant.io](h
 
 The one was made in KiCad app, here's [source of the circuit](https://github.com/glebv/esp8266-wifi-relay-2way-switch/blob/master/circuit.sch)
 
+![PCB](/footprint.jpg "PCB")
+
 ### Installation
 The sketch works with home-assisatnt.io, so you need:
 - [Install home-assistant.io](https://home-assistant.io/getting-started/)
