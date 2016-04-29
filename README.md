@@ -1,6 +1,8 @@
 # WiFi Relay 2Way Switch
 
-The project is based on esp8266-07 or 12 and can work with [home-assistant.io](https://home-assistant.io/) via MQTT. It designed for case when you want to control e.g. a light manually by a switch or remotely from home automation server or mobile app.    
+The project is based on esp8266-07 or 12 and can work with [home-assistant.io](https://home-assistant.io/) via MQTT. It designed for case when you want to control e.g. a light manually by a switch or remotely from home automation server or mobile app.
+
+![appearance](/switcher_photo1.jpg "Аppearance")
 
 #### Key features:
 - work via WiFi and reconnecting in case of a failure
