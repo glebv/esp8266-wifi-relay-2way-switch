@@ -18,8 +18,8 @@ The one was made in KiCad app, here's [source of the circuit](https://github.com
 
 ### Installation
 The sketch works with home-assisatnt.io, so you need:
-— [Install home-assistant.io](https://home-assistant.io/getting-started/)
-— [Install MQTT broker and configure it for work with HA](https://home-assistant.io/components/mqtt/)
+- [Install home-assistant.io](https://home-assistant.io/getting-started/)
+- [Install MQTT broker and configure it for work with HA](https://home-assistant.io/components/mqtt/)
 - [Add configuration of the swicth to config file of HA ](/homeassistant/.configuration.yaml)
 - [Assign your credentials to credentials.cpp](/src/credentials.cpp)
 - Build and upload the code to esp8266-07 via Arduino IDE or PlatformIO
